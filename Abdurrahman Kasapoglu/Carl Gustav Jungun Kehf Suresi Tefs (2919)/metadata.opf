@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2919</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">106fa73f-70d6-48eb-a34b-04fbf723e915</dc:identifier>
+        <dc:title>Carl Gustav Jungun Kehf Suresi Tefsiri</dc:title>
+        <dc:creator opf:file-as="Abdurrahman Kasapoğlu" opf:role="aut">Abdurrahman Kasapoğlu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-30T20:39:08+00:00</dc:date>
+        <dc:publisher>Mengüceli Yayınları</dc:publisher>
+        <dc:language>tr</dc:language>
+        <dc:subject>DİNİ</dc:subject>
+        <meta content="{&quot;Abdurrahman Kasapoğlu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-06T18:57:45.367000+00:00" name="calibre:timestamp"/>
+        <meta content="Carl Gustav Jungun Kehf Suresi Tefsiri" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

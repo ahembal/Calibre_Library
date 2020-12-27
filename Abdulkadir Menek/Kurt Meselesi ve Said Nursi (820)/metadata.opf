@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">820</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22d628e7-76de-4010-90d6-6a34189668b2</dc:identifier>
+        <dc:title>Kürt Meselesi ve Said Nursi</dc:title>
+        <dc:creator opf:file-as="Abdülkadir Menek" opf:role="aut">Abdülkadir Menek</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-03T21:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;?Kürt meselesi,? yakın dönemde Türkiye toplumunda en büyük acı ve ızdırap konusu olan ve en ziyade gerilim ve kutuplaşma üreten mesele niteliğinde.
+Peki, ?Kürt meselesi? nasıl ortaya çıktı? Daha doğrusu, bu toprakların bir sâkini iken Kürtler nasıl bir ?mesele?ye dönüştü veya dönüştürüldü?
+Elinizdeki kitap, işte bu can alıcı sorunun izini sürüyor. Anadolu?da din ortak paydasında beraberce buluşan iki kardeş milletin bilhassa son yüzyıl içinde yaşadıklarını, sebepleri ve sonuçlarıyla, tarihsel bir perspektif içinde ve Bediüzzaman Said Nursî?nin bakış açısının ışığında inceliyor. Dahası, yaşanan gerilime birebir vâkıf bir yazarın elinden çıkmış olmak itibarıyla, bu konunun ?mesele? olmaktan çıkabilmesi için, ufuk açıcı çözüm yolları öneriyor.
+Kürt Meselesi ve Said Nursî, bu meselenin barışçı çözümü için anahtar kelimeler niteliğindeki ?müzakere?yi sahih ve insaflı bir zeminde geliştirme bakımından okunması gereken bir kitap? &lt;/p&gt;</dc:description>
+        <dc:publisher>Nesil Yayınları</dc:publisher>
+        <dc:identifier opf:scheme="UUID">urn:uuid:5c990b38-2c70-424e-a2a2-a51e5346f6ab</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789752699298</dc:identifier>
+        <dc:language>tur</dc:language>
+        <dc:subject>SİYASET</dc:subject>
+        <meta content="{&quot;Abdülkadir Menek&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-12-06T15:28:16+00:00" name="calibre:timestamp"/>
+        <meta content="Kürt Meselesi ve Said Nursi" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

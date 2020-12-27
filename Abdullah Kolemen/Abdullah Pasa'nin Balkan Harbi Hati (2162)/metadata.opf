@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ced3bebb-5198-40e7-8ced-899b4351f01a</dc:identifier>
+        <dc:title>Abdullah Paşa'nın Balkan Harbi Hatıratı - 1328 Balkan Harbi'nde Şark Ordusu Kumandanı</dc:title>
+        <dc:creator opf:file-as="Abdullah Kölemen" opf:role="aut">Abdullah Kölemen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-31T22:00:00+00:00</dc:date>
+        <dc:publisher>DBY Yayınları</dc:publisher>
+        <dc:language>tur</dc:language>
+        <dc:subject>TARİH</dc:subject>
+        <meta content="{&quot;Abdullah Kölemen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-25T19:31:41+00:00" name="calibre:timestamp"/>
+        <meta content="Abdullah Paşa'nın Balkan Harbi Hatıratı - 1328 Balkan Harbi'nde Şark Ordusu Kumandanı" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3813</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">932f47ad-b9e7-45af-9d81-fbf14440feef</dc:identifier>
+        <dc:title>Ali B. Ebî Talib (r.a) (Hayatı, Kişiliği ve Faaliyetleri)</dc:title>
+        <dc:creator opf:file-as="Abdulhalik Bakır" opf:role="aut">Abdulhalik Bakır</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-14T21:52:43+00:00</dc:date>
+        <dc:publisher>Çağ Ofset</dc:publisher>
+        <dc:language>tr</dc:language>
+        <dc:subject>BİYOGRAFİ ANI</dc:subject>
+        <meta content="{&quot;Abdulhalik Bakır&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-05-05T19:27:25.173000+00:00" name="calibre:timestamp"/>
+        <meta content="Ali B. Ebî Talib (r.a) (Hayatı, Kişiliği ve Faaliyetleri)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

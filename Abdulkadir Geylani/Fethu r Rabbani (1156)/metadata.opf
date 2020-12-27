@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1156</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f976183-7362-43c6-b81f-6f3b84449dba</dc:identifier>
+        <dc:title>Fethü´r Rabbani</dc:title>
+        <dc:creator opf:file-as="Abdülkadir Geylani" opf:role="aut">Abdülkadir Geylani</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-07T22:00:00+00:00</dc:date>
+        <dc:publisher>Gelenek Yayınları</dc:publisher>
+        <dc:language>tur</dc:language>
+        <dc:subject>DİNİ</dc:subject>
+        <meta content="{&quot;Abdülkadir Geylani&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-12-06T15:44:58+00:00" name="calibre:timestamp"/>
+        <meta content="Fethü´r Rabbani" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3919</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d164ec03-cc06-4377-977b-42f4d1714283</dc:identifier>
+        <dc:title>Naksibendilik</dc:title>
+        <dc:creator opf:file-as="Abdurrahman ed-Dimeşkiyye" opf:role="aut">Abdurrahman ed-Dimeşkiyye</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-08T11:03:57+00:00</dc:date>
+        <dc:language>tr</dc:language>
+        <dc:subject>DİNİ</dc:subject>
+        <meta content="{&quot;Abdurrahman ed-Dimeşkiyye&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-05-11T19:03:53.988000+00:00" name="calibre:timestamp"/>
+        <meta content="Naksibendilik" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

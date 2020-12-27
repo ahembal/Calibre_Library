@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3824</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dfb423ac-bc72-4114-bc03-f74c7400a3ac</dc:identifier>
+        <dc:title>Kuranda İman Psikolojisi</dc:title>
+        <dc:creator opf:file-as="Abdurrahman Kasapoğlu" opf:role="aut">Abdurrahman Kasapoğlu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-18T22:49:03+00:00</dc:date>
+        <dc:publisher>YalnızKurt</dc:publisher>
+        <dc:language>tr</dc:language>
+        <dc:subject>DİNİ</dc:subject>
+        <meta content="{&quot;Abdurrahman Kasapoğlu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-05-10T20:54:17.476000+00:00" name="calibre:timestamp"/>
+        <meta content="Kuranda İman Psikolojisi" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

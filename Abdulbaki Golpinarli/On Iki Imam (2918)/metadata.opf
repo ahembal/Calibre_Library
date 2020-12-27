@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2918</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53581c63-b5a1-448e-b057-06a4b25d6650</dc:identifier>
+        <dc:title>On İki İmam</dc:title>
+        <dc:creator opf:file-as="Abdülbaki Gölpınarlı" opf:role="aut">Abdülbaki Gölpınarlı</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-19T08:56:21+00:00</dc:date>
+        <dc:publisher>Der Yayınevi</dc:publisher>
+        <dc:language>tr</dc:language>
+        <dc:subject>DİNİ</dc:subject>
+        <meta content="{&quot;Abdülbaki Gölpınarlı&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-06T18:57:38.101000+00:00" name="calibre:timestamp"/>
+        <meta content="On İki İmam" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>
