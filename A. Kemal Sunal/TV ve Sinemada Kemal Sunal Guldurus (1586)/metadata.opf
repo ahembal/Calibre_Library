@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65c1d661-8682-40a3-87cb-67cf7c4f8328</dc:identifier>
+        <dc:title>TV ve Sinemada Kemal Sunal Güldürüsü</dc:title>
+        <dc:creator opf:file-as="A. Kemal Sunal" opf:role="aut">A. Kemal Sunal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>OM Yayınevi</dc:publisher>
+        <dc:language>tr</dc:language>
+        <dc:subject>SOSYOLOJİ</dc:subject>
+        <meta content="{&quot;A. Kemal Sunal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-12-06T16:07:14+00:00" name="calibre:timestamp"/>
+        <meta content="TV ve Sinemada Kemal Sunal Güldürüsü" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

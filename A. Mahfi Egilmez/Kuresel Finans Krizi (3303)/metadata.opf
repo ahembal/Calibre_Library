@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3303</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93fcc44a-2e93-4173-bc4c-a18997855171</dc:identifier>
+        <dc:title>Küresel Finans Krizi</dc:title>
+        <dc:creator opf:file-as="A. Mahfi Eğilmez" opf:role="aut">A. Mahfi Eğilmez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-12T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;i&gt;Küresel krizi anlamak için bu kitabı okuyun!&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Dr. Mahfi Eğilmez, yaşadığımız küresel krizi tüm yansımalarıyla gündeme taşıyor. Krizin Türkiye’yi nasıl etkileyeceğini ve bir daha küresel kriz yaşanmaması için neler yapılması gerektiğini, ayrıca böyle bir krizde kişilerin ve işletmelerin alması gereken önlemlerin neler olduğunu açıklıyor.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;“Bugünkü sistem üretimi değil spekülasyonu teşvik ediyor. Piyasa daima haklıdır görüşü artık tarihe karıştı. Yeni ve ahlâki bir yapı için dünya liderleri acilen toplanmalı.”&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;i&gt;&lt;b&gt;Nicolas Sarkozy&lt;/b&gt; (Fransa Cumhurbaşkanı)&lt;/i&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt; “lMF ve Dünya Bankası yeniden yapılandırılmalı. Dünya finansal sistemi değişmeli.&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;i&gt;&lt;b&gt;Gordon Brown&lt;/b&gt; (ingiltere Başbakanı)&lt;/i&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;“Şu an yaşadığımız kriz, bizi felaketlere sürükleyen ekonomik modelin ve serbest piyasa ekonomisinin her zaman en doğrusu olduğu yönündeki görüşün de sonudur.”&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;i&gt;&lt;b&gt;Joseph Stiglitz&lt;/b&gt; (Nobel ödüllü Amerikalı iktisatçı)&lt;/i&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;“Karl Marx haklıymış. Kapitalist sistem insanlığı bu hale getirdi.”&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;i&gt;Anglikan Kilisesi&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Remzi Kitabevi</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789751413208</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">CvzaPgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">9751413206</dc:identifier>
+        <dc:language>tur</dc:language>
+        <dc:subject>EKONOMİ</dc:subject>
+        <meta content="{&quot;A. Mahfi Eğilmez&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-04-17T20:43:35.806000+00:00" name="calibre:timestamp"/>
+        <meta content="Küresel Finans Krizi" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

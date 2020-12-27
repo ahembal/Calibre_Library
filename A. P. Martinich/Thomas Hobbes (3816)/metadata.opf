@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3816</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a888c78-f4a0-4cf0-87d6-d68a6e1afc1d</dc:identifier>
+        <dc:title>Thomas Hobbes</dc:title>
+        <dc:creator opf:file-as="A. P. Martinich" opf:role="aut">A. P. Martinich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-12T17:41:56+00:00</dc:date>
+        <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+        <dc:language>tr</dc:language>
+        <dc:subject>BİYOGRAFİ ANI</dc:subject>
+        <meta content="{&quot;A. P. Martinich&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-05-05T19:27:33.411000+00:00" name="calibre:timestamp"/>
+        <meta content="Thomas Hobbes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

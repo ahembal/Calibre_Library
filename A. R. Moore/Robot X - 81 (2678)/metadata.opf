@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">266d1607-b973-48e9-a18f-b027ec9043d3</dc:identifier>
+        <dc:title>Robot X - 81</dc:title>
+        <dc:creator opf:file-as="A. R. Moore" opf:role="aut">A. R. Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-03T21:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;İnsanlar, açıldıkları boşlukta bir engelemi rsatlamışlardı? Gezegenden gezegene sıçrayarak Pluto'ya kadar gelmişlerdi ve Uzay Denizi'ne açılmak üzereydiler. Şimdi kendi Güneş sistemlerinin ötesindeki yıldızlara gitmeye hazırlanıyorlardı. İnsanların bilmedikleri, Pluto'nun ötesindeki boşlukta kendilerini tehdit edecek büyük tehlikeydi... Bu tehlike, insanların daha ileriye gitmelerini önleyecekti.
+
+Jed Ambro'nun görevi, insaların boşluğa atılmalarında kullanacakları robotu eğitmekti. Boşluktaki tehlike tarafından yönetilen et ve kemikten bir robot haline geleceğini bilemezdi...&lt;/p&gt;</dc:description>
+        <dc:publisher>Okat Yayınevi</dc:publisher>
+        <dc:language>tur</dc:language>
+        <dc:subject>ROMAN</dc:subject>
+        <meta content="{&quot;A. R. Moore&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-03-04T17:54:34.015000+00:00" name="calibre:timestamp"/>
+        <meta content="Robot X - 81" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

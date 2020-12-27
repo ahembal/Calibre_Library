@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1495</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d06d598e-14ca-4943-9a41-76ab08eed16a</dc:identifier>
+        <dc:title>Aptalı Tanımak</dc:title>
+        <dc:creator opf:file-as="A. M. Celal Şengör" opf:role="aut">A. M. Celal Şengör</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-14T21:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span style="widows: 1;"&gt;Şu anda Türkiye'ye egemen olan cehâlet yönetimi, toplum olma bilincimizde büyük yaralar açmıştır ve açmaya da devam etmektedir. Öncelikle, toplumun bir grup olarak rasyonal düşünme yeteneğini silip süpüren yobazlık ve düşünceye değil korkuya dayanan cemaat yaşamının hortlatılması, toplumsal dokumuzu derinden yaralamıştır. Buna ilâveten eğitimimizde yaratılan kargaşa ve kalitesizlik, bir toplum olarak bilgi edinme ve değerlendirme yetimizi ortadan kaldırmak üzeredir. Tüm bunları yapanların eleştirilmesine, toplumda gerçeği aramak için oluşturulabilecek bir serbest düşünce ve tartışma ortamının oluşturulmasına imkân verecek basın özgürlüğünün alenen, fütursuzca tehdit edilmesi ve buna toplumdan en ufak bir reaksiyon gelmemesi ortaya konan yıkım projesinin toplumca algılanamamasına ve dolayısıyla bertaraf edilememesine neden olmaktadır.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;Bahsettiğim yıkım projesi, bir grup kötü niyetli insanın Türkiye'yi ortadan kaldırma projesi olarak algılanmamalıdır. Kuşkusuz, içimizde bu yıkım projesini yönetenleri dışarıdan destekleyenlerin böyle bir amaçları olabilir ve muhtemelen vardır da. Ancak bu projeyi içimizde (ve başımızda) bulunarak yürüten ve destekleyenlerin yaptıklarının tamamen farkında olduklarını sanmıyorum. Ortaya çıkan ve benim kısaca "proje" diye betimlediğim olgu aslında yalnızca cehalet ve aptallığın ortaya çıkardığı bir süreçtir. Tarih boyunca cehaletin ve aptallığın eline geçen toplumların kaderleri hep bizimki gibi olmuştur. Zira cahil, çevresiyle temasa geçemediği gibi bizzat kendisi hakkındaki bilgileri de değerlendiremez. Aptal ise bu veriler kendisine sunulsa bile bunlarla ne yapacağını düşünemez. Cahil ve aptal her türlü eleştiriden korkar, zira bellediği yolun dışında bir yolun varlığını bilmez, olabileceğini düşünemez ve kendisine gösterilse bile değerlendiremez. Bu durumda yapabileceği tek şey, bugün Türkiye'de olduğu gibi, toplumsal terör, yani korku yaratmaktan ibaret olur.&lt;/span&gt;&lt;br style="padding: 0px; margin: 0px; widows: 1;"&gt;&lt;span style="widows: 1;"&gt;(Tanıtım Bülteninden)&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ka Kitap</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786058447431</dc:identifier>
+        <dc:language>tur</dc:language>
+        <dc:subject>SOSYOLOJİ</dc:subject>
+        <meta content="{&quot;A. M. Celal Şengör&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-12-06T16:02:40+00:00" name="calibre:timestamp"/>
+        <meta content="Aptalı Tanımak" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

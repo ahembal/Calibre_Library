@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1961</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0038bd4d-25b4-4f18-abd8-11837acd0de6</dc:identifier>
+        <dc:title>Dahi Diktatör</dc:title>
+        <dc:creator opf:file-as="A. M. Celal Şengör" opf:role="aut">A. M. Celal Şengör</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-16T21:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Atatürk hâlâ önemli mi bizim için? Çok önemli. Peki akıl bizim için önemli mi, aklımızı kullanmak zorunda mıyız? Buna verilecek cevap neyse, Atatürk'ün bugün bizimle ilgili olup olmadığı, onun adını hatırlayıp hatırlamamız, onun yaptıklarından ders alıp almamamız gerektiği ortaya çıkacaktır. Kendisinin de söylediği budur.
+
+Atatürk bize aklın neler yapabileceğini göstermiştir. Bunun mümkün olduğunu göstermiş; ama "Ben böyle diyorum, böyle yapın" dememiştir. Bilakis, "Ben hiçbir şey söylemiyorum, sadece aklınızı rehber edinin" demiştir. Yaptığı bütün inkılapların gayesi de aklın rehberliğinde Türkiye Cumhuriyeti halkını tamamen çağa uygun, bütün mana ve biçimiyle uygar bir toplum haline dönüştürmektir.
+
+Atatürk bir diktatör mü, değil mi? Son yıllarda yazılmış en iddialı Atatürk kitabı olmaya aday bu eserde bu ve daha birçok sorunun cevabını bulacaksınız.
+(Tanıtım Bülteninden)
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Ka Kitap</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9786058488830</dc:identifier>
+        <dc:language>tur</dc:language>
+        <dc:subject>TARİH</dc:subject>
+        <meta content="{&quot;A. M. Celal Şengör&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-11T21:35:55+00:00" name="calibre:timestamp"/>
+        <meta content="Dahi Diktatör" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

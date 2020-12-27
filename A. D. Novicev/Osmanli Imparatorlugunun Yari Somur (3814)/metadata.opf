@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3814</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77c899e1-9a48-4476-a9e1-a1b1890373de</dc:identifier>
+        <dc:title>Osmanlı İmparatorluğunun Yarı Sömürgeleşmesi</dc:title>
+        <dc:creator opf:file-as="A. D. Noviçev" opf:role="aut">A. D. Noviçev</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-22T05:37:43+00:00</dc:date>
+        <dc:publisher>Onur Yayınları</dc:publisher>
+        <dc:language>tr</dc:language>
+        <dc:subject>TARİH</dc:subject>
+        <meta content="{&quot;A. D. Noviçev&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-05-05T19:27:28.052000+00:00" name="calibre:timestamp"/>
+        <meta content="Osmanlı İmparatorluğunun Yarı Sömürgeleşmesi" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>

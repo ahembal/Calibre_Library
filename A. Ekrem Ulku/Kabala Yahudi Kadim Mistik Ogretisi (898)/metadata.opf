@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">898</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34973866-f00e-417d-96b9-6996864036ea</dc:identifier>
+        <dc:title>Kabala Yahudi Kadim Mistik Öğretisi</dc:title>
+        <dc:creator opf:file-as="A. Ekrem Ülkü" opf:role="aut">A. Ekrem Ülkü</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-18T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Yahudi mistisizmi 4000 yılı aşkın bir süredir, tüm ezoterik öğrencileri derinden etkilemektedir. Kabala öğreti son 2000 yıllık süreçte yazıya geçirilmiş ve bu konuda pek çok kitap yazılmıştır. Ancak bunların çoğunun ortak sorunu belirli bir kesim hariç anlaşılmaz olmalarıdır. Elinizdeki kitap bu sorunu aşmak için herkes tarafından olabildiğince anlaşılabilir ve açıok seçik olarak kaleme alınmıştır. Kaba la öğretisi, hem antik felsefeye hem de çağdaş felsefe ye zengin anlayışlar kazandırmıştır. Felsefe, psikoloji ve dine Kabala sembollerinin merceği ile bakıldığında, daha derin anlamlar ortaya çıkar. Bunun sonunda bu kadim mistik hazine, çağdaş ve postmodern felsefe yaklaşımı ile psikoloji ve tanrıbilim için de yer bulabilir. Ayrıca Kabala'nın altyapısı akılsal bir yaklaşımla günümüze de uyarlanabilir. Bir örnek vermek gerekirse, Kabala'nın kaynaklarından Sefer Yetzirah'da anlatılan Evren Yaratılış süreci, modern bilimin benimsediği Big-Bang teorisi ile bire bir benzerlik göstermektedir. - See more at: http://www.rafkitap.com/kabala-amp-yahudi-kadim-mistik-ogretisi-kitap-134558.htm#sthash.sNMWg9Fv.dpuf&lt;/p&gt;</dc:description>
+        <dc:publisher>Yeni İnsan Yayınevi</dc:publisher>
+        <dc:language>tur</dc:language>
+        <dc:subject>DİNİ</dc:subject>
+        <meta content="{&quot;A. Ekrem Ülkü&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-12-06T15:32:10+00:00" name="calibre:timestamp"/>
+        <meta content="Kabala Yahudi Kadim Mistik Öğretisi" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>
