@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1943</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7b0ec10-1eb9-4d23-ace6-2bfa0808463d</dc:identifier>
+        <dc:title>Kozmik Haydutlar</dc:title>
+        <dc:creator opf:file-as="A. C. Weisbecker" opf:role="aut">A. C. Weisbecker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-06-03T21:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Bir uyuşturucu kaçakçısı, gasp ettikleri eşyaları vakit öldürmek için karıştırırken karşısına çıkan kitaplardan kuantum fiziğine merak sarar ve hayatı onunla açıklama çabasına girişir. Orta ve Güney Amerika'da uyuşturucu kralları, haydutlar (banditolar), birbirinden kaçık tipler ve tabii ki CIA ve FBI gibi örgütler eşliğinde çizgi filmvari maceralar yaşanırken bir yandan da "gerçekliğin temel doğası"na heyecan verici bir yolculuk başlar...
+
+Kozmik Haydutlar, artık, "yaşamınızı değiştirin" terapilerine bile sokulan son yılların en büyüleyici ve bulaşıcı "dini" olmaya aday kuantum fiziğini belki de ona en çok yakışan banditolar ve esrarkeş maceraperestler aracılığıyla açıklıyor. Neredeyse her hükümetin polis teşkilatını peşlerine takan bu gamsız grup, külüstür uçak ve gemilerle kaçakçılık yaparak gittikleri yerleri yakıp yıkıp kaos yaratıyor. El bombasıyla gemi tamirinden, uçakta fazla içerek yerçekimini azaltma projelerine kadar pek çok şenlikli absürdlük örgütlüyorlar.
+
+Neden sonuç ilişkisinin ortadan kalkışıyla, yaşadığımız dünyaya hiç benzemeyen atomaltı aleminden, evrenin nasıl oluştuğuna, kara deliklere ve zaman yolculuklarına kadar sokaktaki insanın da ilgi alanına girecek bir dizi bilimsel olgu ve kuramı okuru üzmeden ve tabii ki sıkmadan mizahi bir üslupla anlatıyor yazar.
+
+Evrende hala şaşıracak şeyler varken bütün mevsimlerin en haylaz, en neşeli kitabı Kozmik Haydutlar'ı kaçırmayın.
+
+Kuantum Fiziği, öyle kolay okunacak bir konu değil ama birkaç yüz galon tekila, bazı patlayıcılar ve bir ton mavrayla karıştırınca Kozmik Haydutlar yaz güneşinin altında zevkle içilecek bir kokteyle dönüşüyor.
+UP!&lt;/p&gt;</dc:description>
+        <dc:publisher>Ayrıntı Yayınları</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789755393629</dc:identifier>
+        <dc:language>tur</dc:language>
+        <dc:subject>ROMAN</dc:subject>
+        <meta content="{&quot;A. C. Weisbecker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-11T21:35:10+00:00" name="calibre:timestamp"/>
+        <meta content="Kozmik Haydutlar" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Kapak" type="cover"/>
+    </guide>
+</package>
